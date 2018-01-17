@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/bash-color",
+    "name": "devjuliocesar/bash-color",
     "description": "A tool for output styled bash text.",
     "keywords":["bash", "prompt", "colorized", "console style"],
     "require": {
@@ -8,14 +8,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Overtrue\\BashColor\\": "src/"
+            "Devjuliocesar\\BashColor\\": "src/"
         }
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "Devjuliocesar",
+            "email": "jcmaldonadom@ufpso.edu.co"
         }
     ]
 }

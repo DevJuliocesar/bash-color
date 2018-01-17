@@ -1,6 +1,6 @@
 <?php
 
-use Overtrue\BashColor\BashColor;
+use Devjuliocesar\BashColor\BashColor;
 
 date_default_timezone_set('PRC');
 

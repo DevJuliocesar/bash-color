@@ -14,7 +14,7 @@
  * @link      https://github.com/overtrue/colorization
  */
 
-namespace Overtrue\BashColor;
+namespace Devjuliocesar\BashColor;
 
 /**
  * Class BashColor.

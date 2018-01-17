@@ -3,8 +3,7 @@
     "description": "A tool for output styled bash text.",
     "keywords":["bash", "prompt", "colorized", "console style"],
     "require": {
-        "php": "^7.0",
-        "phpunit/phpunit": "^4.8"
+        "php": "^7.0"
     },
     "autoload": {
         "psr-4": {
